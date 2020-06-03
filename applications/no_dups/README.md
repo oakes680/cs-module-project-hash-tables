@@ -9,3 +9,9 @@ words removed.
 There must be no extra spaces at the end of your returned string.
 
 The solution must be `O(n)`.
+
+
+
+'hello my name is bob  name  i like hello  pizza'
+
+hello my name is bob i like pizza'
