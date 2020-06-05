@@ -24,7 +24,7 @@ items.sort(key=lambda e:e[1], reverse=True)
 
 
 for key, value in items:
-    print(f'{key}            {value}')
+    print(f'{key:<18} {value}')
 
 
 
